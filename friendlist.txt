@@ -4,9 +4,6 @@ monir
 saddam
 salman
 shahin
-<<<<<<< HEAD
 parvez
-=======
 javed
->>>>>>> feature
 munsor
